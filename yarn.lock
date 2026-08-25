@@ -4535,10 +4535,10 @@ msgpackr-extract@^3.0.4:
     "@msgpackr-extract/msgpackr-extract-linux-x64" "3.0.4"
     "@msgpackr-extract/msgpackr-extract-win32-x64" "3.0.4"
 
-msgpackr@2.0.5:
-  version "2.0.5"
-  resolved "https://registry.yarnpkg.com/msgpackr/-/msgpackr-2.0.5.tgz#ea4308164fad112f1bd4a7bf008445a8a613658a"
-  integrity sha512-cef05H/dSYpLpqp3sj/qyZh5vhUYCalnaLO7j1yOmpsR0y/XwLVtK7r5gn+U/F7CTEfMowcGhlUQJDLcLf7jcA==
+msgpackr@2.0.6:
+  version "2.0.6"
+  resolved "https://registry.yarnpkg.com/msgpackr/-/msgpackr-2.0.6.tgz#b2e90e5b5bd7e333027ed61b86ec8db2b28ff4d3"
+  integrity sha512-plGul/tqjt9vqWFR9zyqyLZls6gb5KTLvnsRO2B9+TZ8tNiXiVI/CR8LiDWlAX4IUeVkQ9gsmzKA6voC2QOciw==
   optionalDependencies:
     msgpackr-extract "^3.0.4"
 
